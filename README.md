@@ -16,6 +16,6 @@ Here is an example of the result:
 
 
 ### Credits
-This project is built step-by-step by following **Tech With Tim**'s LangChain & RAG tutorial to help me familiar with the framework. Thank you for providing this tutorial!
+This project is built step-by-step following **Tech With Tim**'s LangChain & RAG tutorial to help me familiar with the framework. Thank you for providing this tutorial!
 
 source: https://www.youtube.com/watch?v=E4l91XKQSgw
